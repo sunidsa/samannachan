@@ -1,4 +1,4 @@
-export class loginDto{
-    username: string
-    password: string
+export class loginDto {
+  username: string
+  password: string
 }
